@@ -100,7 +100,7 @@ The project includes:
     <br/>
     <img src="src/main/resources/screenshots/angular7.PNG" width="800">
     <br/>    <br/> 
-    <span>A prove that the item "pasta" had been added in the Swagger UI</span>
+    <span>A prove that the item "pasta" has been added in the Swagger UI</span>
     <br/>
     <img src="src/main/resources/screenshots/angular8.PNG" width="800">
 </div>
