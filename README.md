@@ -12,16 +12,9 @@ The project includes:
 - H2 DB using JPA
 <br/>
 - Angular pages for read/delete/add items
-<br/>
 
-<br/>
-This project is based on the 4-layer model:
-- spring-boot application with a REST controller
-- Swagger API catalog
-- H2 DB using JPA
-- Angular pages for read/delete/add items
+<br/> <br/>
 
-<br/>
 <h2>Screenshots:</h2>
 <br/>  
 <div>
