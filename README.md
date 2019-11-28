@@ -60,6 +60,7 @@ The project includes:
     <img src="src/main/resources/screenshots/swagger9.PNG" width="800">
 </div>
 
+<span>================================================================================</span>
 <br/>    <br/>       
 
 <div>
@@ -67,6 +68,36 @@ The project includes:
     <span>Select all items from the ITEM table</span>
     <br/>
     <img src="src/main/resources/screenshots/h2-db.PNG" width="800">
-  
+</div>
+
+<span>================================================================================</span>
+<br/>    <br/>  
+
+<div>
+    <h3>Angular Pages</h3>
+    <span>Successfully compilation</span>
+    <br/>
+    <img src="src/main/resources/screenshots/angular1.PNG" width="800">
+    <br/>    <br/>       
+    <span>Main page (empty page)</span>
+    <br/>
+    <img src="src/main/resources/screenshots/angular2.PNG" width="800">
+    <br/>    <br/>   
+    <span>View Items</span>
+    <br/>
+    <img src="src/main/resources/screenshots/angular3.PNG" width="800">
+    <br/>    <br/> 
+    <span>Delete button clicked on "sprite" item cause a deletion</span>
+    <br/>
+    <img src="src/main/resources/screenshots/angular4.PNG" width="800">
+    <br/>    <br/> 
+    <span>Add Item</span>
+    <br/>
+    <img src="src/main/resources/screenshots/angular5.PNG" width="400" style="position:relative;">
+    <img src="src/main/resources/screenshots/angular6.PNG" width="400" style="position:relative;">
+    <br/>    <br/> 
+    <span>Display the added item on the items list</span>
+    <br/>
+    <img src="src/main/resources/screenshots/angular7.PNG" width="800">
 </div>
  
