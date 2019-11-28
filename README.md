@@ -11,8 +11,15 @@ The project includes:
 <br/>
 - H2 DB using JPA
 <br/>
-- Angular pages for for read/delete/add items
+- Angular pages for read/delete/add items
 <br/>
+
+<br/>
+This project is based on the 4-layer model:
+- spring-boot application with a REST controller
+- Swagger API catalog
+- H2 DB using JPA
+- Angular pages for read/delete/add items
 
 <br/>
 <h2>Screenshots:</h2>
@@ -87,11 +94,11 @@ The project includes:
     <br/>
     <img src="src/main/resources/screenshots/angular3.PNG" width="800">
     <br/>    <br/> 
-    <span>Delete button clicked on "sprite" item cause a deletion</span>
+    <span>Clicking the delete button of "sprite" item cause a deletion</span>
     <br/>
     <img src="src/main/resources/screenshots/angular4.PNG" width="800">
     <br/>    <br/> 
-    <span>Add Item</span>
+    <span>Add Item "pasta"</span>
     <br/>
     <img src="src/main/resources/screenshots/angular5.PNG" width="400" style="position:relative;">
     <img src="src/main/resources/screenshots/angular6.PNG" width="400" style="position:relative;">
