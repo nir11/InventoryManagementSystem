@@ -99,5 +99,9 @@ The project includes:
     <span>Display the added item on the items list</span>
     <br/>
     <img src="src/main/resources/screenshots/angular7.PNG" width="800">
+    <br/>    <br/> 
+    <span>A prove that the item "pasta" had been added in the Swagger UI</span>
+    <br/>
+    <img src="src/main/resources/screenshots/angular8.PNG" width="800">
 </div>
  
