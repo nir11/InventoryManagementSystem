@@ -4,9 +4,13 @@
 This project implementing an inventory items system.
 <br/>
 The project includes:
+<br/>
 - spring-boot application with a REST controller
+<br/>
 - Swagger API catalog
+<br/>
 - H2 DB using JPA
+<br/>
 - Angular pages for for read/delete/add items
 <br/>
 
@@ -55,5 +59,14 @@ The project includes:
     <br/>    <br/>       
     <img src="src/main/resources/screenshots/swagger9.PNG" width="800">
 </div>
+
+<br/>    <br/>       
+
+<div>
+    <h3>h2-console</h3>
+    <span>Select all items from the ITEM table</span>
+    <br/>
+    <img src="src/main/resources/screenshots/h2-db.PNG" width="800">
+  
+</div>
  
-    <span>###########################################################################################</span>
