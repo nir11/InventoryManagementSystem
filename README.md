@@ -1,7 +1,7 @@
 # OpenLegacy Home Task
 
 <br/>
-This project implementing an inventory items system.
+This project is implementing an inventory items system.
 <br/>
 The project includes:
 <br/>
