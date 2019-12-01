@@ -35,10 +35,6 @@ The project includes:
     <br/>    <br/>       
     <img src="src/main/resources/screenshots/swagger4.PNG" width="800">
     <br/>    <br/>
-    <span>Get a list of the inventory items list</span>
-    <br/>    <br/>       
-    <img src="src/main/resources/screenshots/swagger4.PNG" width="800">
-    <br/>    <br/>
     <span>Read item details (by item no)</span>
     <br/>    <br/>       
     <img src="src/main/resources/screenshots/swagger5.PNG" width="800">
