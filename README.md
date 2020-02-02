@@ -1,17 +1,17 @@
-# OpenLegacy Home Task
+# Inventory Management System
 
 <br/>
-This project is implementing an inventory items system.
+This project is implementing an inventory management system.
 <br/>
 The project includes:
 <br/>
-- spring-boot application with a REST controller
+- spring-boot application with a REST API controller
 <br/>
 - Swagger API catalog
 <br/>
 - H2 DB using JPA
 <br/>
-- Angular pages for read/delete/add items
+- Angular pages for read/delete/add items to the inventory system
 
 <br/> <br/>
 
