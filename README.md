@@ -23,11 +23,11 @@ The project includes:
     <br/>
     <img src="src/main/resources/screenshots/swagger1.PNG" width="800">
     <br/>    <br/>    
-    <span>Add item "coke" to stock</span>
+    <span>Add item "coke" to the stock</span>
     <br/>    <br/>       
     <img src="src/main/resources/screenshots/swagger2.PNG" width="800">
     <br/>    <br/>       
-    <span>Add item "sprite" to stock</span>
+    <span>Add item "sprite" to the stock</span>
     <br/>    <br/>       
     <img src="src/main/resources/screenshots/swagger3.PNG" width="800">
     <br/>    <br/>       
@@ -35,7 +35,7 @@ The project includes:
     <br/>    <br/>       
     <img src="src/main/resources/screenshots/swagger4.PNG" width="800">
     <br/>    <br/>
-    <span>Read item details (by item no)</span>
+    <span>Read item details (by item number)</span>
     <br/>    <br/>       
     <img src="src/main/resources/screenshots/swagger5.PNG" width="800">
     <br/>    <br/>
@@ -47,7 +47,7 @@ The project includes:
     <br/>    <br/>       
     <img src="src/main/resources/screenshots/swagger7.PNG" width="800">
     <br/>    <br/>
-    <span>Delete the item "coke" from stock (by item no)</span>
+    <span>Delete the item "coke" from the stock (by item number)</span>
     <br/>    <br/>       
     <img src="src/main/resources/screenshots/swagger8.PNG" width="800">
     <br/>    <br/>
