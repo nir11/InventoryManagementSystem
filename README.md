@@ -19,7 +19,7 @@ The project includes:
 <br/>  
 <div>
     <h3>Swagger UI:</h3>
-    <span>Swagger UI - Item controller HTTP methods</span>
+    <span>Item controller HTTP methods</span>
     <br/>
     <img src="src/main/resources/screenshots/swagger1.PNG" width="800">
     <br/>    <br/>    
