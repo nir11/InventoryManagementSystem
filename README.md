@@ -11,7 +11,7 @@ The project includes:
 <br/>
 - H2 DB using JPA
 <br/>
-- Angular pages for read/delete/add items to the inventory system
+- Angular.js pages for read/delete/add items to the inventory system
 
 <br/> <br/>
 
@@ -70,7 +70,7 @@ The project includes:
 <br/>    <br/>  
 
 <div>
-    <h3>Angular Pages</h3>
+    <h3>Angular.js Pages</h3>
     <span>Successfully compilation</span>
     <br/>
     <img src="src/main/resources/screenshots/angular1.PNG" width="800">
